@@ -1,0 +1,1 @@
+This project is a webpage listing some recipes. This project is designed for me to practice my HTML knowledge.
